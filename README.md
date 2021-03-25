@@ -1,2 +1,2 @@
 # LegalDocumentClassifier
-BERT/ELMO + Nearest Neighbors model for classifying documents based on legal language extracted by a parser from pdfs
+ELMO + Nearest Neighbors model for classifying documents based on legal language extracted by a parser from pdfs
